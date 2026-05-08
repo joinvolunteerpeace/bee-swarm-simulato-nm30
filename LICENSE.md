@@ -1,4 +1,4 @@
-
+bee swarm simulator Scripts smart is the best bee swarm simulator Script, featuring auto-collect and infinite resources. Safe and powerful for all
 
 
 
